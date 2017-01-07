@@ -1,9 +1,9 @@
 # coinChaser
-Snake game - by Eitan Yehuda
+Coin Chaser game - by Eitan Yehuda
 
 Description:
 Begin game by pressing space key or enter. The objective of this 2 player game is to move your character around using arrow keys for 
-player 1 or WASD for player 2 and get more coins then your opponent. There are two rounds and each round has a different layout and lasts 
+player 1 or WASD for player 2 and get more coins than your opponent. There are two rounds and each round has a different layout and lasts 
 a minute. Game ends when time for second round finishes. Sound effects are included. Game over screen displays which player won. press 
 Esc button or close window to exit game.
 
