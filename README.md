@@ -1,6 +1,8 @@
 # coinChaser
 Coin Chaser game - by Eitan Yehuda
 
+![coinchaser screenshot2](https://cloud.githubusercontent.com/assets/23744162/21912301/10cd8808-d8f3-11e6-8e35-edd1fa188658.png)
+
 Description:
 Begin game by pressing space key or enter. The objective of this 2 player game is to move your character around using arrow keys for 
 player 1 or WASD for player 2 and get more coins than your opponent. There are two rounds and each round has a different layout and lasts 
